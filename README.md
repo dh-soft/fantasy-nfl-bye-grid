@@ -6,6 +6,8 @@ It is a standard agent skill: a `SKILL.md` that tells the agent what to run, and
 
 ## Install
 
+Also available as a free download on Capafy: https://capafy.ai/agent/free-fantasy-nfl-bye-week-playoff-schedule-grid/1649091484
+
 Claude Code (or any agent that reads `SKILL.md` skills):
 
 ```bash
